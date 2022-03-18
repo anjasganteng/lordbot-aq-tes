@@ -1,11 +1,11 @@
 let handler = async m => m.reply(`
 ╭─「 Donasi • Pulsa 」
-│ • XL [087708773367]
-│ • Telkomsel [082136981440]
+│ • INDOSAT [.owner]
+│ • Goapay [.owner]
 ╰────
 
 ╭─「 Donasi • Non Pulsa 」
-│ • https://saweria.co/Nurutomo
+│ • https://saweria.co/
 │ • https://saweria.co/ariffb
 ╰────
 `.trim()) // Tambah sendiri kalo mau
