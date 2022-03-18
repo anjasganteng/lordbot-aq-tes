@@ -1,6 +1,6 @@
 let handler = async m => m.reply(`
 Lord Botz Menggunakan Script
-https://github.com/AmmarBN/lordbot-aq-tes
+https://github.com/kenzostore/lordbot-aq-tes
 Jangan Lupa Kasi Star ya kak
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['script']
