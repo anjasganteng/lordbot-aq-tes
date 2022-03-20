@@ -1,12 +1,12 @@
 let handler = async m => m.reply(`
 ╭─「 Donasi • Pulsa 」
 │ • INDOSAT [.owner]
-│ • Goapay [.owner]
+│ • Telkomsel [.owner]
 ╰────
 
 ╭─「 Donasi • Non Pulsa 」
-│ • https://saweria.co/
-│ • https://saweria.co/
+│ • #owner
+│ • Sawerr Cuyy
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi','donate']
